@@ -1,0 +1,24 @@
+h1{
+
+    color: pink
+}
+
+img{
+    height: 300px;
+    border: 10px pink solid
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(96, 22, 109);
+ 
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    text-transform: uppercase;
+}
